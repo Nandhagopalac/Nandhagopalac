@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Nandhagopalac
+- 👋 Hi, I’m @Nandha
 - 👀 I’m interested in python and Data automation stuff
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on any pepole who can help me for data standpoint
